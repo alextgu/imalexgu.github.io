@@ -1,2 +1,1 @@
-# ImAlexGu.io
 Personal website
